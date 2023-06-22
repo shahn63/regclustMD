@@ -5,10 +5,6 @@
 ##
 ##   Model-based clustering of mixed data with sparse dependence
 ##
-##   by Young-Gen Choi<ygchoi@skku.edu>, 
-##       Soohyun Ahn<shahn@ajou.ac.kr>, and 
-##       Jayoun Kim<nunadli03@snu.ac.kr>.
-##
 ################################################################################
 
 ########################################
@@ -22,7 +18,7 @@
 
   - One needs to load the main source code 'solver1.54.R' e.g. via
 
-      source("solver1.54.R")
+      source("solver1.54.R");
       sourceCpp("cal_prob.cpp") 
 
   The code with several parameters produces table 2 of simulation study in Section 6.   
@@ -34,7 +30,7 @@
 
   - One needs to load the main source code 'solver1.54.R' and 'cal_prob.cpp' e.g. via
 
-      source("solver1.54.R")
+      source("solver1.54.R");
       sourceCpp("cal_prob.cpp") 
 
   The code with several parameters produces table 2 of simulation study in Section 6. 
@@ -45,8 +41,8 @@
 
   - One needs to load the main source code 'solver1.54.R', 'cal_prob.cpp', and 'cluster_validation_final.R' e.g. via
 
-      source("solver1.54.R")
-      sourceCpp("cal_prob.cpp") 
+      source("solver1.54.R");
+      sourceCpp("cal_prob.cpp") ;
       source("cluster_validation_final.R") 
 
 * AIS.R:
@@ -55,8 +51,8 @@
 
   - One needs to load the main source code 'solver1.54.R', 'cal_prob.cpp', and 'cluster_validation_final.R' e.g. via
 
-      source("solver1.54.R")
-      sourceCpp("cal_prob.cpp") 
+      source("solver1.54.R");
+      sourceCpp("cal_prob.cpp");
       source("cluster_validation_final.R") 
 
 * README.txt:
