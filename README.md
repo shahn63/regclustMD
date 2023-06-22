@@ -36,7 +36,7 @@
   The code with several parameters produces table 2 of simulation study in Section 6. 
 
 * Prostate.R:
-  
+  -------
   Code to reproduce the analysis of the Prostate cancer data in Table 7 presented in the manuscript.
 
   - One needs to load the main source code 'solver1.54.R', 'cal_prob.cpp', and 'cluster_validation_final.R' e.g. via
@@ -46,7 +46,7 @@
       source("cluster_validation_final.R") 
 
 * AIS.R:
-  
+  -------
   Code to reproduce the analysis of the Australian Institute of Sports data in Table 8 presented in the manuscript.
 
   - One needs to load the main source code 'solver1.54.R', 'cal_prob.cpp', and 'cluster_validation_final.R' e.g. via
